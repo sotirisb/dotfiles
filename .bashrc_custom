@@ -1,1 +1,3 @@
-
+alias ls='ls -sF'
+alias vi=vim
+alias cl=clear
