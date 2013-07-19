@@ -1,4 +1,4 @@
 alias ls='ls -sF'
 alias vi=vim
 alias cl=clear
-alias rm 'rm'
+alias rm='rm'
