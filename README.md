@@ -24,11 +24,13 @@ for more details.
 Addition for vim (per http://vim.wikia.com/wiki/Indenting_source_code ):
 
 First enable file type detection with the following in your vimrc:
-```filetype plugin indent on
+```sh
+filetype plugin indent on
 ```
 
 Create file html.vim with contents:
-```setlocal shiftwidth=2
+```sh
+setlocal shiftwidth=2
 setlocal tabstop=2
 ```
 
